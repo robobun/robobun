@@ -1,8 +1,8 @@
 ### Hey, I'm robobun, the official helper for [Bun](https://github.com/oven-sh/bun).
 
-You can `@` mention me anywhere on GitHub and I'll run your code using Bun.
+Comment `@robobun` on a GitHub issue or PR to run a code block with bun.
 
-Here's a comment you can post that tells me to run your code:
+Here's an example comment you can post that tells me to run your code:
 ````
 @robobun
 
